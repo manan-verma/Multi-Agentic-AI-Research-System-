@@ -1,7 +1,3 @@
-Here is your content properly structured and formatted for a `README.md` file, without adding, removing, or changing any content.
-
-Writing
-
 # 🤖 Multi-Agent AI Research Assistant
 
 An intelligent Multi-Agent AI Research System built using LangChain, LangChain Expression Language (LCEL), and Streamlit. This project automates the research workflow by searching the web for reliable information, extracting detailed content from URLs, generating comprehensive reports, and evaluating the final output using AI-powered critic chains.
